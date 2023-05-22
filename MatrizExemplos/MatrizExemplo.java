@@ -100,6 +100,6 @@ public class MatrizExemplo {
                 }
             }
         }
-        System.out.println(" A soma da Diagonal é "+soma);
+        System.out.println(" A soma da Diagonal é "+ soma);
     }
 }
